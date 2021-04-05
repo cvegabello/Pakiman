@@ -2,11 +2,7 @@ body
 {
     color: #333;
     text-align: center;
-<<<<<<< HEAD
-    font-family:cursive;
-=======
-    font-family:fantasy;
->>>>>>> cabecera
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 16px;
     margin: 0;
     padding: 0;
